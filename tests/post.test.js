@@ -17,7 +17,6 @@ describe('Post controller', () => {
     let res = {};
 
     let expectedResult;
-
     
     describe('create', () => {
         var createPostStub;
